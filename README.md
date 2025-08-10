@@ -63,6 +63,8 @@ By completing this task, I gained practical experience in **natural language und
 
 ****Output****
 
+<img width="1262" height="525" alt="Image" src="https://github.com/user-attachments/assets/924bfe28-bee4-4def-a719-99c2ac94db94" />
+
 
 
 
